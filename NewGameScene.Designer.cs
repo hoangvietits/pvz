@@ -33,9 +33,9 @@
             // 
             // panel1
             // 
-            panel1.Location = new Point(208, 86);
+            panel1.Location = new Point(220, 76);
             panel1.Name = "panel1";
-            panel1.Size = new Size(890, 580);
+            panel1.Size = new Size(930, 554);
             panel1.TabIndex = 0;
             // 
             // NewGameScene
@@ -46,7 +46,8 @@
             BackgroundImageLayout = ImageLayout.Stretch;
             Controls.Add(panel1);
             Name = "NewGameScene";
-            Size = new Size(1173, 700);
+            Size = new Size(1292, 658);
+            Load += NewGameScene_Load;
             ResumeLayout(false);
         }
 

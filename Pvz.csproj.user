@@ -10,5 +10,11 @@
     <Compile Update="NewGameScene.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Plant.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Zombie.cs">
+      <SubType>Component</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
