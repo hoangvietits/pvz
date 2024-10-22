@@ -1,22 +1,32 @@
-namespace Pvz
+﻿namespace Pvz
 {
     public partial class Form1 : Form
     {
+        public GameScene Scene;
+        public NewGameScene NewGameScene;
         public Form1()
         {
             InitializeComponent();
+            Scene = new GameScene();
+
+            Scene._newgameBtn += NewGame;
+            NewGameScene = new NewGameScene();
+
+            NewGameScene.Dock = DockStyle.Fill;
+            Scene.Dock = DockStyle.Fill;
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
-            GameScene gameScene = new GameScene();
-            panel1.Controls.Add(gameScene);
+            panel1.Controls.Add(Scene); 
+            
         }
-
-        private void newGameBtn_Click(object sender, EventArgs e)
+        private void NewGame(object sender, EventArgs e)
         {
-
+            panel1.Controls.Clear();
+            panel1.Controls.Add(NewGameScene);
         }
+
+
     }
 }

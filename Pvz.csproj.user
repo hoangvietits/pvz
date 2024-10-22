@@ -7,5 +7,8 @@
     <Compile Update="GameScene.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="NewGameScene.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

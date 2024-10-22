@@ -1,14 +1,14 @@
 ﻿namespace Pvz
 {
-    partial class Form1
+    partial class NewGameScene
     {
-        /// <summary>
-        ///  Required designer variable.
+        /// <summary> 
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        ///  Clean up any resources being used.
+        /// <summary> 
+        /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
@@ -20,11 +20,11 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
+        #region Component Designer generated code
 
-        /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
+        /// <summary> 
+        /// Required method for Designer support - do not modify 
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
@@ -33,25 +33,25 @@
             // 
             // panel1
             // 
-            panel1.Location = new Point(0, 0);
+            panel1.Location = new Point(208, 86);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1327, 728);
-            panel1.TabIndex = 2;
+            panel1.Size = new Size(890, 580);
+            panel1.TabIndex = 0;
             // 
-            // Form1
+            // NewGameScene
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.PC_Computer___Plants_vs_Zombies___Day;
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(1320, 717);
             Controls.Add(panel1);
-            Name = "Form1";
-            Text = "Pvz";
-            Load += Form1_Load;
+            Name = "NewGameScene";
+            Size = new Size(1173, 700);
             ResumeLayout(false);
         }
 
         #endregion
+
         private Panel panel1;
     }
 }
