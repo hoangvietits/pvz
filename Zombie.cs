@@ -12,8 +12,8 @@ namespace Pvz
 
         public Zombie(int level)
         {
-            this.Width = 64;  // Đặt kích thước zombie
-            this.Height = 64;
+            this.Width = 120;  // Đặt kích thước zombie
+            this.Height = 120;
             this.SizeMode = PictureBoxSizeMode.StretchImage; // Co giãn hình ảnh
 
             this.health = 100 + 50 * level;
