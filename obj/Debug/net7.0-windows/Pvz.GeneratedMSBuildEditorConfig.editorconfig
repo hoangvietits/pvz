@@ -14,6 +14,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Pvz
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\trank\Source\Repos\pvz\
+=======
+build_property.ProjectDir = C:\Lap trinh nang cao\50\PVZ\pvz\
+>>>>>>> 76f093a2d2843cd3d9dca76f41e82c59ae9d7881
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

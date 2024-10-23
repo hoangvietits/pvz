@@ -1,32 +1,37 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Pvz
 {
-    public class Zombie : PictureBox   
+    public class Zombie : PictureBox
     {
         public int health;
         public int dmg;
         public int speed;
         public int score;
-        public Zombie(int level )
+
+        public Zombie(int level)
         {
+            this.Width = 120;  // Đặt kích thước zombie
+            this.Height = 120;
+            this.SizeMode = PictureBoxSizeMode.StretchImage; // Co giãn hình ảnh
+
             this.health = 100 + 50 * level;
-            this.dmg = 25*level;
+            this.dmg = 25 * level;
             this.speed = 5 + 2 * level;
             this.score = 5 * level;
-            switch (level ) {
+
+            // Đặt hình ảnh tương ứng với cấp độ zombie
+            switch (level)
+            {
                 case 1:
-                    this.BackgroundImage = Properties.Resources.regularZombie;
+                    this.Image = Properties.Resources.regularZombie;
                     break;
                 case 2:
-                    this.BackgroundImage= Properties.Resources.paperzombie;
+                    this.Image = Properties.Resources.paperzombie;
                     break;
                 case 3:
-                    this.BackgroundImage = Properties.Resources.brainzombie;
+                    this.Image = Properties.Resources.brainzombie;
                     break;
                 default:
                     break;
