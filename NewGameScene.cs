@@ -48,14 +48,14 @@ namespace Pvz
         private void SetDoubleBuffered(Control control)
         {
             System.Reflection.PropertyInfo prop = typeof(Control).GetProperty("DoubleBuffered",
-                System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
+            System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
             prop.SetValue(control, true, null);
         }
 
         private void DrawFloor(object sender, PaintEventArgs e)
         {
             Graphics g = e.Graphics;
-            Pen pen = new Pen(Color.Black, 1);
+            Pen pen = new Pen(Color.Transparent, 1);
 
             for (int i = 0; i <= rows; i++)
             {

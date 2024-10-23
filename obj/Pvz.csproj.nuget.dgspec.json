@@ -1,41 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\trank\\Source\\Repos\\pvz\\Pvz.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Pvz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trank\\Source\\Repos\\pvz\\Pvz.csproj": {
+    "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Pvz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trank\\Source\\Repos\\pvz\\Pvz.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Pvz.csproj",
         "projectName": "Pvz",
-        "projectPath": "C:\\Users\\trank\\Source\\Repos\\pvz\\Pvz.csproj",
-        "packagesPath": "C:\\Users\\trank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trank\\Source\\Repos\\pvz\\obj\\",
-=======
-    "C:\\Lap trinh nang cao\\50\\PVZ\\pvz\\Pvz.csproj": {}
-  },
-  "projects": {
-    "C:\\Lap trinh nang cao\\50\\PVZ\\pvz\\Pvz.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Lap trinh nang cao\\50\\PVZ\\pvz\\Pvz.csproj",
-        "projectName": "Pvz",
-        "projectPath": "C:\\Lap trinh nang cao\\50\\PVZ\\pvz\\Pvz.csproj",
-        "packagesPath": "C:\\Users\\MACON\\.nuget\\packages\\",
-        "outputPath": "C:\\Lap trinh nang cao\\50\\PVZ\\pvz\\obj\\",
->>>>>>> 76f093a2d2843cd3d9dca76f41e82c59ae9d7881
+        "projectPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Pvz.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-          "C:\\Users\\trank\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\MACON\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 76f093a2d2843cd3d9dca76f41e82c59ae9d7881
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -78,24 +60,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.19, 7.0.19]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.19, 7.0.19]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.19, 7.0.19]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.19, 7.0.19]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -104,11 +68,7 @@
               "privateAssets": "none"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
->>>>>>> 76f093a2d2843cd3d9dca76f41e82c59ae9d7881
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,20 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "00bUVmWHN9k=",
+  "dgSpecHash": "RBiICnzHLPM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\trank\\Source\\Repos\\pvz\\Pvz.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Pvz.csproj",
   "expectedPackageFiles": [],
-=======
-  "dgSpecHash": "brMP0+hSUHo=",
-  "success": true,
-  "projectFilePath": "C:\\Lap trinh nang cao\\50\\PVZ\\pvz\\Pvz.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\MACON\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
-    "C:\\Users\\MACON\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
-    "C:\\Users\\MACON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
-    "C:\\Users\\MACON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
-  ],
->>>>>>> 76f093a2d2843cd3d9dca76f41e82c59ae9d7881
   "logs": []
 }

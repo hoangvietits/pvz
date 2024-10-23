@@ -18,7 +18,7 @@ namespace Pvz
 
             this.health = 100 + 50 * level;
             this.dmg = 25 * level;
-            this.speed = 5 + 2 * level;
+            this.speed = 1 + 2 * level;
             this.score = 5 * level;
 
             // Đặt hình ảnh tương ứng với cấp độ zombie

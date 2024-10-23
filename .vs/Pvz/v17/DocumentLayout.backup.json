@@ -1,49 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\trank\\source\\repos\\pvz\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\trank\\source\\repos\\pvz\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|C:\\Users\\trank\\source\\repos\\pvz\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\trank\\source\\repos\\pvz\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\trank\\source\\repos\\pvz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz\\zombiepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:zombiepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\trank\\source\\repos\\pvz\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\trank\\source\\repos\\pvz\\newgamescene.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:newgamescene.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|C:\\Users\\trank\\source\\repos\\pvz\\newgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:newgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\trank\\source\\repos\\pvz\\gamescene.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz\\gamescene.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:gamescene.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\trank\\source\\repos\\pvz\\newgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz\\newgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:newgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\trank\\source\\repos\\pvz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|C:\\Users\\trank\\source\\repos\\pvz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|c:\\users\\admin\\desktop\\thai binh duong\\nnltnc\\pvz\\pvz\\pvz\\plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\newgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:newgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FCAB9162-5043-4676-B532-C3DB056C42DD}|Pvz.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -54,11 +65,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAMwVAAAAAAAAAAAawOAVAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-23T12:49:09.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:42:09.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -70,149 +103,163 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Bullet.cs",
+              "RelativeDocumentMoniker": "Bullet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Bullet.cs",
+              "RelativeToolTip": "Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:36:16.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ZombiePool.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\ZombiePool.cs",
+              "RelativeDocumentMoniker": "ZombiePool.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\ZombiePool.cs",
+              "RelativeToolTip": "ZombiePool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:19:34.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\trank\\source\\repos\\pvz\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\trank\\source\\repos\\pvz\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:35:40.071Z",
+              "WhenOpened": "2024-10-23T12:17:44.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\trank\\source\\repos\\pvz\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\trank\\source\\repos\\pvz\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:27:33.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameScene.cs",
-              "DocumentMoniker": "C:\\Users\\trank\\source\\repos\\pvz\\GameScene.cs",
-              "RelativeDocumentMoniker": "GameScene.cs",
-              "ToolTip": "C:\\Users\\trank\\source\\repos\\pvz\\GameScene.cs",
-              "RelativeToolTip": "GameScene.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:33:11.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NewGameScene.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\trank\\source\\repos\\pvz\\NewGameScene.Designer.cs",
-              "RelativeDocumentMoniker": "NewGameScene.Designer.cs",
-              "ToolTip": "C:\\Users\\trank\\source\\repos\\pvz\\NewGameScene.Designer.cs",
-              "RelativeToolTip": "NewGameScene.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T13:33:05.19Z",
+              "WhenOpened": "2024-10-23T12:17:44.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "NewGameScene.cs",
-              "DocumentMoniker": "C:\\Users\\trank\\source\\repos\\pvz\\NewGameScene.cs",
-              "RelativeDocumentMoniker": "NewGameScene.cs",
-              "ToolTip": "C:\\Users\\trank\\source\\repos\\pvz\\NewGameScene.cs",
-              "RelativeToolTip": "NewGameScene.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAvwBgAAAAAAAAAAAAAAA==",
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\GameScene.cs",
+              "RelativeDocumentMoniker": "GameScene.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\GameScene.cs",
+              "RelativeToolTip": "GameScene.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:23:36.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Zombie.cs",
-              "DocumentMoniker": "C:\\Users\\trank\\source\\repos\\pvz\\Zombie.cs",
-              "RelativeDocumentMoniker": "Zombie.cs",
-              "ToolTip": "C:\\Users\\trank\\source\\repos\\pvz\\Zombie.cs",
-              "RelativeToolTip": "Zombie.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAjwA0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T13:13:34.952Z",
+              "WhenOpened": "2024-10-23T12:17:44.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GameScene.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\trank\\source\\repos\\pvz\\GameScene.Designer.cs",
-              "RelativeDocumentMoniker": "GameScene.Designer.cs",
-              "ToolTip": "C:\\Users\\trank\\source\\repos\\pvz\\GameScene.Designer.cs",
-              "RelativeToolTip": "GameScene.Designer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
+              "Title": "NewGameScene.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\NewGameScene.cs",
+              "RelativeDocumentMoniker": "NewGameScene.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\NewGameScene.cs",
+              "RelativeToolTip": "NewGameScene.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwDsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:12:11.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Plant.cs",
-              "DocumentMoniker": "C:\\Users\\trank\\source\\repos\\pvz\\Plant.cs",
-              "RelativeDocumentMoniker": "Plant.cs",
-              "ToolTip": "C:\\Users\\trank\\source\\repos\\pvz\\Plant.cs",
-              "RelativeToolTip": "Plant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T13:13:47.595Z",
+              "WhenOpened": "2024-10-23T12:17:44.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "NewGameScene.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\trank\\source\\repos\\pvz\\NewGameScene.cs",
-              "RelativeDocumentMoniker": "NewGameScene.cs",
-              "ToolTip": "C:\\Users\\trank\\source\\repos\\pvz\\NewGameScene.cs [Design]",
-              "RelativeToolTip": "NewGameScene.cs [Design]",
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Zombie.cs",
+              "RelativeDocumentMoniker": "Zombie.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Zombie.cs",
+              "RelativeToolTip": "Zombie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:19:56.196Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-23T12:17:44.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameScene.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\GameScene.Designer.cs",
+              "RelativeDocumentMoniker": "GameScene.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\GameScene.Designer.cs",
+              "RelativeToolTip": "GameScene.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:17:44.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\trank\\source\\repos\\pvz\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Form1.cs [Design]",
+              "Title": "Plant.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Plant.cs",
+              "RelativeDocumentMoniker": "Plant.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Plant.cs",
+              "RelativeToolTip": "Plant.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCkAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:24:10.917Z"
+              "WhenOpened": "2024-10-23T12:17:44.861Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
+              "Title": "NewGameScene.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\NewGameScene.cs",
+              "RelativeDocumentMoniker": "NewGameScene.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\NewGameScene.cs [Design]",
+              "RelativeToolTip": "NewGameScene.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:17:45.482Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:17:45.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "GameScene.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\trank\\source\\repos\\pvz\\GameScene.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\GameScene.cs",
               "RelativeDocumentMoniker": "GameScene.cs",
-              "ToolTip": "C:\\Users\\trank\\source\\repos\\pvz\\GameScene.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\GameScene.cs [Design]",
               "RelativeToolTip": "GameScene.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:32:24.67Z",
+              "WhenOpened": "2024-10-23T12:17:45.503Z",
               "EditorCaption": " [Design]"
             }
           ]
