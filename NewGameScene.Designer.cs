@@ -47,7 +47,7 @@
             Controls.Add(panel1);
             Name = "NewGameScene";
             Size = new Size(1292, 658);
-            Load += NewGameScene_Load;
+            
             ResumeLayout(false);
         }
 

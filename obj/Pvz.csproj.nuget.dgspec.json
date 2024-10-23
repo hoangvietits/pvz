@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Pvz.csproj": {}
+    "C:\\Lap trinh nang cao\\50\\PVZ\\pvz\\Pvz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Pvz.csproj": {
+    "C:\\Lap trinh nang cao\\50\\PVZ\\pvz\\Pvz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Pvz.csproj",
+        "projectUniqueName": "C:\\Lap trinh nang cao\\50\\PVZ\\pvz\\Pvz.csproj",
         "projectName": "Pvz",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\Pvz.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\thai binh duong\\NNLTNC\\pvz\\Pvz\\pvz\\obj\\",
+        "projectPath": "C:\\Lap trinh nang cao\\50\\PVZ\\pvz\\Pvz.csproj",
+        "packagesPath": "C:\\Users\\MACON\\.nuget\\packages\\",
+        "outputPath": "C:\\Lap trinh nang cao\\50\\PVZ\\pvz\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MACON\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,6 +60,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -68,7 +86,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
