@@ -47,7 +47,11 @@ namespace Pvz
 
         private void quitBtn_Click(object sender, EventArgs e)
         {
-            
+            DialogResult dialogResult = MessageBox.Show("Are you sure you want to exit?", "Confirmation", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
     }
 }

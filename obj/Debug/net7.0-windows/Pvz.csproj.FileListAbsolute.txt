@@ -36,3 +36,23 @@ C:\Users\Admin\Desktop\thai binh duong\NNLTNC\pvz\Pvz\pvz\obj\Debug\net7.0-windo
 C:\Users\Admin\Desktop\thai binh duong\NNLTNC\pvz\Pvz\pvz\obj\Debug\net7.0-windows\Pvz.genruntimeconfig.cache
 C:\Users\Admin\Desktop\thai binh duong\NNLTNC\pvz\Pvz\pvz\obj\Debug\net7.0-windows\ref\Pvz.dll
 C:\Users\Admin\Desktop\thai binh duong\NNLTNC\pvz\Pvz\pvz\obj\Debug\net7.0-windows\Pvz.NewGameScene.resources
+C:\Users\trank\Source\Repos\pvz\bin\Debug\net7.0-windows\Pvz.exe
+C:\Users\trank\Source\Repos\pvz\bin\Debug\net7.0-windows\Pvz.deps.json
+C:\Users\trank\Source\Repos\pvz\bin\Debug\net7.0-windows\Pvz.runtimeconfig.json
+C:\Users\trank\Source\Repos\pvz\bin\Debug\net7.0-windows\Pvz.dll
+C:\Users\trank\Source\Repos\pvz\bin\Debug\net7.0-windows\Pvz.pdb
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.Form1.resources
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.GameScene.resources
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.NewGameScene.resources
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.Properties.Resources.resources
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.csproj.GenerateResource.cache
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.AssemblyInfoInputs.cache
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.AssemblyInfo.cs
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.csproj.CoreCompileInputs.cache
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.sourcelink.json
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.dll
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\refint\Pvz.dll
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.pdb
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\Pvz.genruntimeconfig.cache
+C:\Users\trank\Source\Repos\pvz\obj\Debug\net7.0-windows\ref\Pvz.dll
